@@ -7,26 +7,32 @@ The work is organized week-wise, with each notebook documenting the tasks and ou
 Project Structure
 
 Week1/
+
 ├── Week1_Code.ipynb
 └── Week1_Output.ipynb
 
 Week2/
+
 ├── Week2_Code.ipynb
 └── Week2_Output.ipynb
 
 Week3/
+
 ├── Week3_Code.ipynb
 └── Week3_Output.ipynb
 
 Week4/
+
 ├── Week4_Code.ipynb
 └── Week4_Output.ipynb
 
 Week6/
+
 ├── Week6_Code.ipynb
 └── Week6_Output.ipynb
 
 Week7/
+
 ├── Week7_Code.ipynb
 └── Week7_Output.ipynb
 
