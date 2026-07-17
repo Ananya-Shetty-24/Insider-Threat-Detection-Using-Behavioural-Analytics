@@ -5,6 +5,7 @@ This repository contains the work completed during my internship, focusing on da
 The work is organized week-wise, with each notebook documenting the tasks and outcomes completed during the internship.
 
 Project Structure
+
 Week1/
 ├── Week1_Code.ipynb
 └── Week1_Output.ipynb
