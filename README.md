@@ -9,31 +9,43 @@ Project Structure
 Week1/
 
 ├── Week1_Code.ipynb
+
 └── Week1_Output.ipynb
 
 Week2/
 
 ├── Week2_Code.ipynb
+
 └── Week2_Output.ipynb
 
 Week3/
 
 ├── Week3_Code.ipynb
+
 └── Week3_Output.ipynb
 
 Week4/
 
 ├── Week4_Code.ipynb
+
 └── Week4_Output.ipynb
+
+Week5/
+
+└──insider_actual_data_pdf
+
+└──insider_model_data_pdf
 
 Week6/
 
 ├── Week6_Code.ipynb
+
 └── Week6_Output.ipynb
 
 Week7/
 
 ├── Week7_Code.ipynb
+
 └── Week7_Output.ipynb
 
 
@@ -51,6 +63,7 @@ TensorFlow
 Splunk
 
 Splunk is an enterprise analytics platform built for real-time searching, monitoring, and analyzing machine data (such as logs)​. It operates by collecting and indexing data into a searchable index, from which graphs, reports, alerts, dashboards, and visualizations can be created by users​.
+
 
 The links for interactive dashboards are given below:
 
