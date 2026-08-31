@@ -1,6 +1,6 @@
 # Insider-Threat-Detection-Using-Behavioural-Analytics
 
-
+This is the project under RVU internship spanning from June to July 2026.This repository contains the work completed during my internship, focusing on data analytics, machine learning, and log analysis. The project demonstrates the complete data pipeline from collecting and preprocessing data to building machine learning models and analyzing system logs for actionable insights.
 The work is organized week-wise, with each notebook documenting the tasks and outcomes completed during the internship.
 
 Project Structure
@@ -73,7 +73,7 @@ for model data dashboard:
 http://localhost:8000/en-US/shareddashboard?id=insider_model_data&oid=zc9kV8r93gc%5EJSBJ7dnT0HV8ahCBhNkCh15E%5E%5EHXgFx7hcTqB%5EJ02pefE1aAzku_6Kvez0aTdMjMu5S24T3nACzobLEkk61vfk1fiBeUmgCT_CRyELKXQFVTlmjZ4%5EBYVEOuJiuMxPROTNEkbdrCQm74zmw1xMzg95jdf8Wdh7EG
 
 This is the project under RVU internship spanning from June to July 2026.
-This repository contains the work completed during my internship, focusing on data analytics, machine learning, and log analysis. The project demonstrates the complete data pipeline from collecting and preprocessing data to building machine learning models and analyzing system logs for actionable insights.
+
 
 
 Future Enhancements for this project are:
