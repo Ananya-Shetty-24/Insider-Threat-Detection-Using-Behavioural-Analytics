@@ -64,13 +64,7 @@ Splunk
 Splunk is an enterprise analytics platform built for real-time searching, monitoring, and analyzing machine data (such as logs)​. It operates by collecting and indexing data into a searchable index, from which graphs, reports, alerts, dashboards, and visualizations can be created by users​.
 
 
-The links for interactive dashboards are given below:
 
-for actual cert data dashboard:
-http://localhost:8000/en-US/shareddashboard?id=insider_actual_data&oid=1j%5EHw839T6KWGrJpr_QQBteeGkb1CKtprXpNJxC%5E8BGcj31zj1QWWesyP1s5V%5EiDD4gk7SQPTsgKqcjkMgsNT3dqjuIEMcF7rL5mPhh8jpgUuktFjmP%5EO_2cpS4YpUaZyS3S7JuV1NgEh9MtuFHqQ%5EzeFI1wFMt4lZhqMKutEg7LzCNJOn6j
-
-for model data dashboard:
-http://localhost:8000/en-US/shareddashboard?id=insider_model_data&oid=zc9kV8r93gc%5EJSBJ7dnT0HV8ahCBhNkCh15E%5E%5EHXgFx7hcTqB%5EJ02pefE1aAzku_6Kvez0aTdMjMu5S24T3nACzobLEkk61vfk1fiBeUmgCT_CRyELKXQFVTlmjZ4%5EBYVEOuJiuMxPROTNEkbdrCQm74zmw1xMzg95jdf8Wdh7EG
 
 This is the project under RVU internship spanning from June to July 2026.
 
